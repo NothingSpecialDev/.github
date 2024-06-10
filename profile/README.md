@@ -1,1 +1,1 @@
-Specializing in creating web applications and developer tools for niche platforms like webOS, Firefox OS, and now KaiOS. These underpowered and poorly documented platforms require a higher degree of creativity and technical skill, making the work a lot of fun. Over the last 15 years, I’ve honed my skills in planning, designing, building, releasing, and supporting professional-grade software that has reached thousands of users.
+Specializing in creating web applications and developer tools for niche platforms like webOS, Firefox OS, and now KaiOS!
